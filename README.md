@@ -1,0 +1,2 @@
+# i-need-hepl
+Create the autoReplace (needles, change, haystack) method, which will receive an array of strings, which will need to be changed on the change field inside the haystack field. Example:   AutoReplace (['salad', 'tomatoes'], 'food', 'fresh tomatoes are in salad'); must return "fresh food is in the food". If you want to use regex you can use but not the main one. If there are no parameters in the sentence it will return false. who help me?(((
